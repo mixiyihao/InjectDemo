@@ -1,0 +1,1 @@
+Android5.0 以后必须关掉SELINUX setenforce 0
